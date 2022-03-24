@@ -16,6 +16,8 @@
 		25AB49B027EB5EBC000B578C /* TablasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AB49AF27EB5EBC000B578C /* TablasTests.swift */; };
 		25AB49BA27EB5EBC000B578C /* TablasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AB49B927EB5EBC000B578C /* TablasUITests.swift */; };
 		25AB49BC27EB5EBC000B578C /* TablasUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AB49BB27EB5EBC000B578C /* TablasUITestsLaunchTests.swift */; };
+		25AB49CB27EBB273000B578C /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AB49CA27EBB273000B578C /* SecondViewController.swift */; };
+		25AB49CD27ECBF32000B578C /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25AB49CC27ECBF32000B578C /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		25AB49B527EB5EBC000B578C /* TablasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TablasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25AB49B927EB5EBC000B578C /* TablasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablasUITests.swift; sourceTree = "<group>"; };
 		25AB49BB27EB5EBC000B578C /* TablasUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablasUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		25AB49CA27EBB273000B578C /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		25AB49CC27ECBF32000B578C /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				25AB499827EB5EBA000B578C /* AppDelegate.swift */,
 				25AB499A27EB5EBA000B578C /* SceneDelegate.swift */,
 				25AB499C27EB5EBA000B578C /* ViewController.swift */,
+				25AB49CA27EBB273000B578C /* SecondViewController.swift */,
+				25AB49CC27ECBF32000B578C /* ThirdViewController.swift */,
 				25AB499E27EB5EBA000B578C /* Main.storyboard */,
 				25AB49A127EB5EBC000B578C /* Assets.xcassets */,
 				25AB49A327EB5EBC000B578C /* LaunchScreen.storyboard */,
@@ -260,6 +266,8 @@
 			files = (
 				25AB499D27EB5EBA000B578C /* ViewController.swift in Sources */,
 				25AB499927EB5EBA000B578C /* AppDelegate.swift in Sources */,
+				25AB49CD27ECBF32000B578C /* ThirdViewController.swift in Sources */,
+				25AB49CB27EBB273000B578C /* SecondViewController.swift in Sources */,
 				25AB499B27EB5EBA000B578C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
